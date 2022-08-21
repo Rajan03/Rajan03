@@ -36,5 +36,5 @@
 
 ### My Most used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan03&show_icons=true&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan03&theme=vue&show_icons=true)
   
